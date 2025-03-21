@@ -15,6 +15,7 @@ I specialize in:
 ---
 
 ## ⚡ Skills:
+<img src="https://github.com/user-attachments/assets/b6ce5de8-924a-4165-96f7-d85ff2f66c57" width="100px">
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <img src="https://github.com/user-attachments/assets/db142c93-9e19-41be-b4da-bfd86b71abbc" width="100px">
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
