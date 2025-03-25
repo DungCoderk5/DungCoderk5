@@ -15,6 +15,15 @@ I specialize in:
 ---
 
 ## ⚡ Skills:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+
+
+  
 <img src="https://github.com/user-attachments/assets/9587f34e-757c-48e5-886c-cadfdad71664" width="100px" padding="0">
 <img src="https://github.com/user-attachments/assets/db142c93-9e19-41be-b4da-bfd86b71abbc" width="200px">
 <img src="https://github.com/user-attachments/assets/b6ce5de8-924a-4165-96f7-d85ff2f66c57" width="100px">
